@@ -19,7 +19,7 @@
 * i got this output becuase we try changing the directory to a file
 * this causes an error as the file cannot be the directory
 
-Screenshots of commands for ```ls```
+> Screenshots of commands for ```ls```
 
 ![Image](lsnoarguement.jpg)
 * the absolute path is
@@ -40,4 +40,22 @@ Screenshots of commands for ```ls```
 * this is not an error as it printed out the contents of ```messages```
 
 
-Screenshot of commands for ```cat```
+> Screenshot of commands for ```cat```
+
+![Image](catnoarguement.jpg)
+* the absolute path is
+```/Users/roxyferrer/lecture1```
+* i got this as there was no arguments passed with ```cat```
+* this is not an error as there was nothing to use the ```cat``` command to
+
+![Image](catdirectory.jpg)
+* the absolute path is
+```/Users/roxyferrer/lecture1```
+* i got this because i tried passing a directory as an argument
+* this isn't an error, since you can't use cat on a directory
+
+![Image](catfilearguement.jpg)
+* the absolute path is
+```/Users/roxyferrer/lecture1```
+* i got this as it passed as a file
+* this is not an error, as cat can be used on a file 
