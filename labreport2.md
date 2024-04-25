@@ -1,8 +1,10 @@
 # Lab Report 2 
-> Questions/Concerns: Not sure I did part 2 correctly; was confused in the aspects of findng the paths for public/private key
+> Questions/Concerns: Couldn't figure out how to get server to run properly for part 1. Going to office hours this week to get help on this for resubmission.
 
 
 ## Part 1
+Code for ```ChatServer```: 
+
 Adding "Hello" onto Server:
 
 ![Image]()
