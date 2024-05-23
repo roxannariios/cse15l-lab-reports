@@ -1,7 +1,7 @@
 # Lab Report: Vim (Week 7)
 * screenshot using ```vim```
 
-  [!Image](labreport4screenshot.jpg)
+  ![Image](labreport4screenshot.jpg)
 
 Steps taken to do this:
 
