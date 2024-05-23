@@ -1,7 +1,7 @@
 # Lab Report: Vim (Week 7)
 * screenshot using ```vim```
 
-  [!Image](filler)
+  [!Image](labreport4screenshot.jpg)
 
 Steps taken to do this:
 
@@ -23,5 +23,7 @@ Steps taken to do this:
 **Step 8: Run Tests**
 * Entered: ```<up><up><up><up>``` ```enter``` to run ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
 * Entered: ```<up><up><up><up>``` ```enter``` to run ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests```
+
+**Step 9: Commit and Push** 
 
 
