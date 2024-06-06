@@ -38,7 +38,7 @@ Files and Directory:
 |     |----run.sh
 ```
 *Contents of each file before fixing*
-![Image](ImageofBuggyCode.jpg)
+![Image](ImageofWrongCode.jpg)
 ![Image](ImageofRun.jpg)
 
 *Commands ran to trigger bug:*
